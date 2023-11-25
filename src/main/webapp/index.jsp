@@ -1,14 +1,14 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Devops - Hope it is fun!!!!! if not please let us know Rittik De <font></h1>
+<h1><font color='red'> This is my G REEN DEPLOYMENT <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://ashokitech.com/online-training-schedules"> My GITHUB LINK</a>
   
   <h2> Call Us : +353 899833325</h2>
   
   <h3> Dublin </h3>
   
-  <h1> Learn Here.. Lead Anywhere..!! </h1>
+  <h1> Hope it's done</h1>
 
 </body>
 </html>
